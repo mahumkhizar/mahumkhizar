@@ -6,6 +6,4 @@ Link to my website: https://mahumkhizar.github.io
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahumkhizar&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahumkhizar&layout=compact)
+![GitHub Stats](./profile/stats.svg)
